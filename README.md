@@ -1,2 +1,2 @@
 # blockchain
-return last block on the chain
+returns last block on the chain
